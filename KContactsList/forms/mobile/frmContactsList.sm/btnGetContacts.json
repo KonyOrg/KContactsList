@@ -38,6 +38,7 @@
     "displaytext": true,
     "focusskin": "scec3bcdf2284166aead670b5956a759",
     "id": "btnGetContacts",
+    "ide_onClick": "AS_Button_he1e53af102c41f8bdb42fafae168bea",
     "info": null,
     "isvisible": true,
     "kuid": "b1c47817abbb44209ad578ce1bb36a6a",

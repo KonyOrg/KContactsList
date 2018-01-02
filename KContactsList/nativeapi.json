@@ -22,6 +22,28 @@
                     "filepath": "/Users/kh145/BankapalliGit/KContactsList/KContactsList/nativebindings/Android/4.0/Kony_SyncV2-Android-4.0.zip",
                     "enable": true
                 }
+            },
+            "API level 23": {
+                "android.provider-Android-API level 23": {
+                    "title": "android.provider",
+                    "platform": "Android",
+                    "os": "API level 23",
+                    "url": "/visualizer/nativeframeworks/android/1.0/android.provider-Android-4.0.zip",
+                    "checksum": "902a56e2c60e3f8739bdc76ee7939dd928371a02",
+                    "projectName": "KContactsList",
+                    "filepath": "/Users/kh145/BankapalliGit/KContactsList/KContactsList/nativebindings/Android/API level 23/android.provider-Android-4.0.zip",
+                    "enable": true
+                },
+                "android.database-Android-API level 23": {
+                    "title": "android.database",
+                    "platform": "Android",
+                    "os": "API level 23",
+                    "url": "/visualizer/nativeframeworks/android/1.0/android.database-Android-4.0.zip",
+                    "checksum": "0797e87c70e18a59e97829d6432c9997283e0fce",
+                    "projectName": "KContactsList",
+                    "filepath": "/Users/kh145/BankapalliGit/KContactsList/KContactsList/nativebindings/Android/API level 23/android.database-Android-4.0.zip",
+                    "enable": true
+                }
             }
         }
     }
