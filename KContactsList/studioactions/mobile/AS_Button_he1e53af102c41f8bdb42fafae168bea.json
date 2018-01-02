@@ -1,0 +1,28 @@
+{
+    "AS_Button_he1e53af102c41f8bdb42fafae168bea": {
+        "id": "AS_Button_he1e53af102c41f8bdb42fafae168bea",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmContactsList",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bbb89bea8e99476093e738595bb50472"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a8201f2e0c094c949b3da234ff47ae3d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getContacts",
+            "display": "getContacts",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}
