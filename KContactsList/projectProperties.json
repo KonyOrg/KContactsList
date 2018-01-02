@@ -1,0 +1,37 @@
+{
+    "appidkey": "KContactsList",
+    "mwaddrkey": "",
+    "isNewAppWithRespectToAndroidPackageName": "",
+    "apppackagekey": "",
+    "appaddrkey": "",
+    "appnamekey": "KContactsList",
+    "currentgaversion": "8.0.1",
+    "appversionkey": "1.0.0",
+    "project.type": "js",
+    "startupformkey": "",
+    "enableCustomData": false,
+    "vendornamekey": "KonyLabs",
+    "createdgaversion": "8.0.1",
+    "konyVizVersion": "8.0.1",
+    "isDpScaleFactor": true,
+    "isMVC": false,
+    "referenceWidth": "375",
+    "winmobileguidkey": "",
+    "APPLICATION_THEME": "default",
+    "build": "debug",
+    "mastersProperties": {
+        "mastersVersion": "2.0.0"
+    },
+    "project_version": "sprint29",
+    "mwportkey": "",
+    "category": "app",
+    "createdVizVersion": "8.0.1",
+    "mwhttpsportkey": "",
+    "defaulttheme": "defaultTheme",
+    "nativeContainerProperties": {
+        "isModified": true,
+        "isEnableJSContainer": false,
+        "isEnableJSContainerAndroid": false,
+        "isEnableJSContaineriOS": false
+    }
+}
